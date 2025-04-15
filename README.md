@@ -4,35 +4,6 @@
 ## 🏆 About Me
 I'm a student at Rajamangala University of Technology Thanyaburi (RMUTT) and the winner of the Microsoft Office Specialist World Championship 2024 in Microsoft PowerPoint 2019 category.
 
-## 🌐 Portfolio
-Check out my web portfolio: [attachai.vercel.app](https://attachai.vercel.app/)
-
-## 💼 Projects
-
-### 🏕️ HTML Mountain Camp
-A website showcasing camping destinations in Thailand.
-- **Role:** Project Manager & Web Developer
-- **Technologies:** HTML, CSS, JavaScript
-- **Website:** [mountain-camp.vercel.app](https://mountain-camp.vercel.app/)
-
-### 🍽️ JaiFulFood K6
-A mobile application recommending restaurants in Khlong 6, Pathum Thani.
-- **Role:** Project Manager & App Developer
-- **Technologies:** Flutter
-- **Status:** Academic Project
-
-### 👥 BuddyGo
-A social media web application for finding outdoor activity companions.
-- **Role:** Fullstack Developer
-- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
-- **Status:** Academic Project
-
-### ♻️ BitTrophy
-A gamified application that makes waste collection fun by rewarding users with points to exchange for products or e-vouchers.
-- **Role:** Project Manager & App Developer
-- **Technologies:** Flutter, Firebase
-- **Status:** Academic Project
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/attachai-singthong-614434322/" target="_blank">
@@ -73,6 +44,37 @@ A gamified application that makes waste collection fun by rewarding users with p
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
 </p>
+
+## 🌐 Portfolio
+Check out my web portfolio: [attachai.vercel.app](https://attachai.vercel.app/)
+
+## 💼 Projects
+
+### 🏕️ HTML Mountain Camp
+A website showcasing camping destinations in Thailand.
+- **Role:** Project Manager & Web Developer
+- **Technologies:** HTML, CSS, JavaScript
+- **Website:** [mountain-camp.vercel.app](https://mountain-camp.vercel.app/)
+
+### 🍽️ JaiFulFood K6
+A mobile application recommending restaurants in Khlong 6, Pathum Thani.
+- **Role:** Project Manager & App Developer
+- **Technologies:** Flutter
+- **Status:** Academic Project
+
+### 👥 BuddyGo
+A social media web application for finding outdoor activity companions.
+- **Role:** Fullstack Developer
+- **Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+- **Status:** Academic Project
+
+### ♻️ BitTrophy
+A gamified application that makes waste collection fun by rewarding users with points to exchange for products or e-vouchers.
+- **Role:** Project Manager & App Developer
+- **Technologies:** Flutter, Firebase
+- **Status:** Academic Project
+
+
 
 ## 📊 GitHub Stats
 

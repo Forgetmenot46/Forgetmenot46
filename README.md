@@ -89,13 +89,11 @@ A camping destination showcase website in Thailand.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AttachaiSingthong&show_icons=true&theme=radical" alt="Attachai GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AttachaiSingthong&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Forgetmenot46&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forgetmenot46&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
-> “Code is not just syntax, it's a way to shape the world.” – *Attachai Singthong*
 
 ⭐ Thanks for visiting my profile! Let's connect and build something awesome together!
 

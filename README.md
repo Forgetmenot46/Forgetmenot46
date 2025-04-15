@@ -85,6 +85,24 @@ A camping destination showcase website in Thailand.
 
 ---
 
+## 🔧 Currently Working On
+
+- 🎓 Studying in **Year 4** at RMUTT  
+- 🚀 Competing in **RMUTT Innovative Startup 2025** with the app **BitTrophy**  
+- 🛠️ Improving my Flutter & Firebase skills for real-world applications  
+
+---
+
+## 😄 Fun Facts About Me
+
+- 🎸 I'm a big fan of **John Mayer** and **Red Hot Chili Peppers (RHCP)**  
+- 🌆 My dream is to live in my favorite city: **Los Angeles**  
+- 🍔 I like **Western food**, but nothing beats **Thai food**!
+
+---
+
+![MOS Champion](https://img.shields.io/badge/MOS-World%20Champion-red?style=flat-square&logo=microsoft)
+
 ## 📊 GitHub Stats
 
 <p align="left">

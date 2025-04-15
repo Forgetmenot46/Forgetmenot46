@@ -66,8 +66,7 @@ A camping destination showcase website in Thailand.
 
 ## 🎖️ Achievements
 
-- 🏆 **MOS World Championship 2024** – PowerPoint 2019 (1st Place, Thailand & World Winner)  
-- 🥈 **RMUTT Innovative Startup 2025** – Concept Idea Pitching (BitTrophy)
+- 🏆 **MOS World Championship 2024** – PowerPoint 2019 (1st Place)
 
 ---
 

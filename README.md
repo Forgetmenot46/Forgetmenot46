@@ -66,7 +66,10 @@ A camping destination showcase website in Thailand.
 
 ## 🎖️ Achievements
 
-- 🏆 **MOS World Championship 2024** – PowerPoint 2019 (1st Place)
+- 🥇 **MOS World Championship 2024** – Microsoft PowerPoint 2019 (1st Place)  
+  📜 Official Result: [MOS Championship Winners 2024](https://moschampionship.certiport.com/past)
+
+![MOS Champion](https://img.shields.io/badge/MOS-World%20Champion-red?style=flat-square&logo=microsoft)
 
 ---
 
@@ -101,7 +104,7 @@ A camping destination showcase website in Thailand.
 
 ---
 
-![MOS Champion](https://img.shields.io/badge/MOS-World%20Champion-red?style=flat-square&logo=microsoft)
+
 
 ## 📊 GitHub Stats
 

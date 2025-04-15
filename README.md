@@ -35,7 +35,18 @@ A gamified application that makes waste collection fun by rewarding users with p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- You can add your social media icons here -->
+  <a href="https://www.linkedin.com/in/attachai-singthong-614434322/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="attachai-singthong-614434322" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/ForgetMeNot2446/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ForgetMeNot2446" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_forgetmenot46/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_forgetmenot46" height="30" width="40" />
+  </a>
+  <a href="mailto:att.singthong46@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="att.singthong46@gmail.com" height="30" width="40" style="fill: #EA4335;" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

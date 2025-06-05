@@ -91,7 +91,6 @@ A camping destination showcase website in Thailand.
 ## 🔧 Currently Working On
 
 - 🎓 Studying in **Year 4** at RMUTT  
-- 🚀 Competing in **RMUTT Innovative Startup 2025** with the app **BitTrophy**  
 - 🛠️ Improving my Flutter & Firebase skills for real-world applications  
 
 ---

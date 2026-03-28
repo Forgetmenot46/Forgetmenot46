@@ -41,13 +41,13 @@
 ### ♻️ BitTrophy
 A gamified app that makes waste collection fun by rewarding users with points.
 - **Role:** Project Manager & App Developer  
-- **Technologies:** Flutter, Firebase  
+- **Technologies:** Flutter, Dart, Firebase  
 - **Status:** Academic Project
 
 ### 🍽️ JaiFulFood K6
 Mobile app for restaurant recommendations in Khlong 6, Pathum Thani.
 - **Role:** Project Manager & App Developer  
-- **Technologies:** Flutter  
+- **Technologies:** Flutter, Dart 
 - **Status:** Academic Project
 
 ### 👥 BuddyGo
@@ -56,11 +56,23 @@ A social platform to find companions for outdoor activities.
 - **Technologies:** PHP, MySQL, HTML, CSS, JS  
 - **Status:** Academic Project
 
-### 🏕️ HTML Mountain Camp
+### 🏕️ Mountain Camp
 A camping destination showcase website in Thailand.
 - **Role:** Project Manager & Web Developer  
 - **Technologies:** HTML, CSS, JavaScript  
 - **Website:** [mountain-camp.vercel.app](https://mountain-camp.vercel.app/)
+- 
+### 🧾 Project project_bkreceipts
+An automated digital receipt management system designed for organized expense tracking
+- **Role:** Fullstack Developer
+- **Technologies:** PHP, MySQL, JavaScript, Bootstrap
+- **Status:** Final Project
+
+### ✈️ HappyTrip (เที่ยวสุขใจ)
+A travel planning application specifically designed for senior citizens and general users, featuring a simplified SOS emergency system.
+- **Role:** Fullstack Developer
+- **Technologies:** Flutter, Dart
+- **Status:** Research Assistant Project (Funded)
 
 ---
 
@@ -100,17 +112,6 @@ A camping destination showcase website in Thailand.
 - 🎸 I'm a big fan of **John Mayer** and **Red Hot Chili Peppers (RHCP)**  
 - 🌆 My dream is to live in my favorite city: **Los Angeles**  
 - 🍔 I like **Western food**, but nothing beats **Thai food**!
-
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Forgetmenot46&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forgetmenot46&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 

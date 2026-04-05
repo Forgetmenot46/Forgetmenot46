@@ -66,7 +66,7 @@ A camping destination showcase website in Thailand.
 An automated digital receipt management system designed for organized expense tracking
 - **Role:** Fullstack Developer
 - **Technologies:** PHP, MySQL, JavaScript, Bootstrap
-- **Status:** Final Project
+- **Status:** Senior Project
 
 ### ✈️ HappyTrip (เที่ยวสุขใจ)
 A travel planning application specifically designed for senior citizens and general users, featuring a simplified SOS emergency system.

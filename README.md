@@ -32,7 +32,7 @@
 
 ## 🌐 Portfolio
 
-🖥️ Explore my work here: [attachai.vercel.app](https://attachai.vercel.app/)
+🖥️ Explore my work here: [[attachai.vercel.app](https://attachai.vercel.app/)](https://attachai46portfolio.vercel.app/)
 
 ---
 
